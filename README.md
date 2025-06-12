@@ -37,7 +37,7 @@ These metrics indicate that the best model is highly capable of identifying posi
 ## ✅ Key Highlights
 - Handled outliers using IQR and strategy-based filtering (removal, capping, or keep).
 - Feature selection based on correlation threshold.
-- Used **GridSearchCV** for hyperparameter tuning (SVM, RF).
+- Used **GridSearchCV** for hyperparameter tuning hyperparameters.
 - Compared models side-by-side in a performance table.
 - Visualized results using **ROC curves** and **confusion matrices**.
 
