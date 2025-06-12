@@ -13,7 +13,6 @@ The following supervised models were trained and compared:
 - **K-Nearest Neighbors (KNN)**
 - **Decision Tree Classifier**
 - **Random Forest Classifier**
-- **Support Vector Machine (SVM)**
 
 Each model was evaluated using:
 - **Accuracy**
@@ -27,7 +26,7 @@ Each model was evaluated using:
 
 | Metric   | Value |
 |----------|-------|
-| **Model** | Logistic Regression / SVM |
+| **Model** | Logistic Regression |
 | **Recall** | 0.94 |
 | **AUC**    | 0.99 |
 
